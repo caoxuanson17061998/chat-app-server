@@ -1,4 +1,4 @@
-import entities from 'src/utils/typeorm';
+import entities from 'src/utils/entities';
 
 const dbConfig = {
   type: 'mysql',
